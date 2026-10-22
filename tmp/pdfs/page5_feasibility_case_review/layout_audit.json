@@ -1,0 +1,15 @@
+{
+  "pages": 1,
+  "logical_page": "05",
+  "revenue_paragraphs_preserved_verbatim": 3,
+  "effect_pairs": 3,
+  "validation_metrics": 3,
+  "feasibility_arguments": 3,
+  "feasibility_topics": [
+    "기술적 구현 범위",
+    "투자·운영비 통제",
+    "단계적 검증과 확장"
+  ],
+  "revenue_body_end_y": 693,
+  "text_regions_overlap": false
+}

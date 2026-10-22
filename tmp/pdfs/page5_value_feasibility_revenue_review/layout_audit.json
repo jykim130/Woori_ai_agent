@@ -1,0 +1,10 @@
+{
+  "pages": 1,
+  "logical_page": "05",
+  "revenue_paragraphs_preserved_verbatim": 3,
+  "effect_pairs": 3,
+  "validation_metrics": 3,
+  "proposed_implementation_label_present": true,
+  "revenue_body_end_y": 693,
+  "text_regions_overlap": false
+}

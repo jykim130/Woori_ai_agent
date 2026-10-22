@@ -1,0 +1,10 @@
+{
+  "pages": 1,
+  "logical_page": "05",
+  "narrative_paragraphs": 4,
+  "customer_flow_nodes": 4,
+  "explicit_evaluation_headings_removed": true,
+  "customer_value_deployment_and_economics_retained": true,
+  "text_regions_overlap": false,
+  "body_bottom_y": 627
+}

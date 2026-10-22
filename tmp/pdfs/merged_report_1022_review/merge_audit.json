@@ -1,0 +1,30 @@
+{
+  "pages": 4,
+  "order": [
+    {
+      "page": 1,
+      "source": "징검다WOORI_첫페이지_시안A.pdf",
+      "source_sha256": "4f47eade517d4e5e9e839e21ab3080cf724281ce828e257a60fff9d370b86dea",
+      "text_and_pixels_match": true
+    },
+    {
+      "page": 2,
+      "source": "징검다WOORI_2페이지_페르소나_금융준비부담수정본.pdf",
+      "source_sha256": "713bc89183fb9a834043ae4cbe4ab6c6f8dfffce3f6b4164a57869c65923e98d",
+      "text_and_pixels_match": true
+    },
+    {
+      "page": 3,
+      "source": "징검다WOORI_3페이지_좌측설명_와이어프레임확대.pdf",
+      "source_sha256": "ace2bd730c273334d1a0ab39ebc4b378f38bb1a5ad864b2faa2959ef7dfe660e",
+      "text_and_pixels_match": true
+    },
+    {
+      "page": 4,
+      "source": "징검다WOORI_4페이지_좌측설명_와이어프레임확대.pdf",
+      "source_sha256": "91400694a19e6282b25439868c794d847f8cef0ff3b55c8e2b5b4c4f11005fa1",
+      "text_and_pixels_match": true
+    }
+  ],
+  "all_source_pages_preserved": true
+}
