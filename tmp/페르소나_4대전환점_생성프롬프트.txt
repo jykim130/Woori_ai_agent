@@ -1,0 +1,32 @@
+Use case: photorealistic-natural.
+Asset type: one finished, high-resolution, extra-wide Korean banking proposal persona image, approximately 3:1 landscape, with four equal photographic scenes arranged in one horizontal row from left to right. This is ONE composite image, not four separate outputs.
+
+Primary request: Show the SAME fictional Korean man progressing through four chronological life transitions from late adolescence to his mid twenties. The message is that financial preparation becomes more complex as life changes. Focus on the person's practical questions and preparation burden, never on bank switching or customer churn.
+
+Identity invariant: Exactly the same recognizable fictional man appears once in each of the four photographs. Maintain his oval face, straight dark eyebrows, warm brown eyes, natural skin texture, softly rounded chin, and a tiny subtle mole below the left eye. Let him mature only slightly from 19 to 26. His hairstyle and clothing change plausibly with time; he must never look like four unrelated models. No other prominent people. Every photograph shows his face clearly in a natural three-quarter view.
+
+Layout: A polished, restrained editorial report layout on a white background. Four equally sized realistic situation photographs in a single left-to-right row, with narrow white gutters, matched scale and camera height, and consistent soft natural daylight. Each event is ONE coherent photograph showing ONE situation, with no smaller inset images or scene montages inside it. Give the photographs most of the canvas. Below each photograph place its age, event title, and short Korean question in clean, highly readable Korean sans-serif type, navy headings and dark gray body text. A subtle thin timeline with four small milestones below or between the captions may reinforce chronology. Generous but economical white margins. No comic panel outlines, no speech or thought balloons, no cartoon effects.
+
+Four photographs:
+1. Age 19, 성인·진학: The young man in a cream sweatshirt at a small home study desk, preparing for university. An admission folder, student backpack, a plain bank card and smartphone suggest organizing the financial tools needed for his new student life. He looks thoughtfully at the documents, not into the camera. Face clearly visible.
+2. Age 20, 첫 수입·반독립: The same man slightly older, wearing a simple cafe work apron over a gray shirt, seated at a cafe table after his shift. He checks his first part-time wage on his smartphone while considering an open expense notebook. The cafe context should be clear, the income and living-cost responsibility conveyed naturally, without a fake giant app overlay.
+3. Age 22, 입대·전역: The SAME man with a short military haircut, wearing a realistic Korean military camouflage uniform without readable unit markings, seated at a table with a duffel bag nearby. He is preparing for discharge and return to university, thoughtfully arranging a university folder and housing/living-expense papers. Show a calm transition back to civilian life, with no weapons, no combat, no dramatic distress.
+4. Age 26, 취업·독립: The same man now a young office worker, wearing a pale blue business shirt and a plain unbranded work ID, in a modest newly rented studio apartment with a couple of moving boxes. He studies a rental agreement and a small laptop at the table, considering salary, housing expenses and savings together. Show recognizable continuity of the man's identity.
+
+Text, render exactly in Korean with correct spelling:
+Main heading above the photographs: "금융 준비가 복잡해지는 4대 전환점"
+Photo 1 age: "19세"
+Photo 1 title: "성인·진학"
+Photo 1 question: "무엇을 유지하고, 새로 준비해야 할까?"
+Photo 2 age: "20세"
+Photo 2 title: "첫 수입·반독립"
+Photo 2 question: "수입에 맞춰 생활비와 저축을 어떻게 나눌까?"
+Photo 3 age: "22세"
+Photo 3 title: "입대·전역"
+Photo 3 question: "전역 후 필요한 돈을 언제, 어디에 쓸까?"
+Photo 4 age: "26세"
+Photo 4 title: "취업·독립"
+Photo 4 question: "급여·주거비·저축을 어떻게 함께 준비할까?"
+Questions may wrap into two balanced short lines. Do not add any other headline, commentary, brand name, logo, numerical bank balance, watermark, or legible personal/account information on props.
+
+Style: photorealistic editorial lifestyle photography, candid and believable, natural Korean environments, subtle facial aging, real skin and fabric texture, realistic hands. Thoughtful expressions communicate manageable preparation difficulty. No comic, illustration, anime, 3D render, mascot, bee character, cartoon character, speech bubbles, exaggerated advertising poses, or glossy plastic faces. The same person's evolving life must be immediately clear. Opaque white background.
